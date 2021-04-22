@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "mvp",
+            "versionName": "versão 1",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "mvp": "0Ho4x000000TNGqCAO",
+        "mvp@1.0.0-1": "04t4x000000VDDzAAO"
+    }
+}
